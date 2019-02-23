@@ -51,14 +51,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="300" />
-          <entry key="handlebars" value="3152" />
+          <entry key="handlebars" value="3235" />
           <entry key="js" value="1245" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="300" />
-          <entry key="Handlebars/Mustache" value="3152" />
+          <entry key="Handlebars/Mustache" value="3235" />
           <entry key="JavaScript" value="1245" />
         </counts>
       </usages-collector>
@@ -69,8 +69,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/layouts/index.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="105" column="170" selection-start-line="105" selection-start-column="170" selection-end-line="105" selection-end-column="170" />
+            <state relative-caret-position="353">
+              <caret line="195" column="42" selection-start-line="195" selection-start-column="42" selection-end-line="195" selection-end-column="42" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -327,12 +330,12 @@
       <workItem from="1550179952212" duration="1154000" />
       <workItem from="1550195791290" duration="1012000" />
       <workItem from="1550263024415" duration="3630000" />
-      <workItem from="1550871641031" duration="2870000" />
+      <workItem from="1550871641031" duration="3202000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27223000" />
+    <option name="totallyTimeSpent" value="27555000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -450,8 +453,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/layouts/index.handlebars">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="105" column="170" selection-start-line="105" selection-start-column="170" selection-end-line="105" selection-end-column="170" />
+        <state relative-caret-position="353">
+          <caret line="195" column="42" selection-start-line="195" selection-start-column="42" selection-end-line="195" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
